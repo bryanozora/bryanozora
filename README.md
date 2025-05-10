@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi there, I'm Bryan Ozora
 
-<!--
-**bryanozora/bryanozora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **AI Enthusiast | Software Engineering Student at Petra Christian University**
 
-Here are some ideas to get you started:
+I'm a third-year software engineering student specializing in Artificial Intelligence. Passionate about building intelligent systems and solving complex problems through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- 🔍 **Focus Areas:** Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing  
+- 🌱 **Currently Learning:** Advanced AI algorithms, real-world AI applications  
+- 🤝 **Open to Collaborate:** On AI-driven projects and innovative tech solutions  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Python, Java, JavaScript, PHP, HTML, C++  
+- **Frameworks & Libraries:** TensorFlow, PyTorch, scikit-learn, Matplotlib, Pandas, Seaborn
+- **Tools:** Git, Jupyter Notebook  
+
+---
+
+## 📈 GitHub Stats
+
+![Bryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bryanozora&show_icons=true&theme=default)
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/bryan-ozora/)
+
+---
