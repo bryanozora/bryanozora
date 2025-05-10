@@ -22,12 +22,6 @@ I'm a third-year software engineering student specializing in Artificial Intelli
 
 ---
 
-## 📈 GitHub Stats
-
-![Bryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bryanozora&show_icons=true&theme=default)
-
----
-
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/bryan-ozora/)
