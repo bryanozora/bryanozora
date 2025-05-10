@@ -17,7 +17,7 @@ I'm a third-year software engineering student specializing in Artificial Intelli
 ## 🛠️ Tech Stack
 
 - **Languages:** Python, Java, JavaScript, PHP, HTML, C++  
-- **Frameworks & Libraries:** TensorFlow, PyTorch, scikit-learn, Matplotlib, Pandas, Seaborn
+- **Frameworks & Libraries:** TensorFlow, PyTorch, scikit-learn, Matplotlib, Pandas, Seaborn, Laravel
 - **Tools:** Git, Jupyter Notebook  
 
 ---
